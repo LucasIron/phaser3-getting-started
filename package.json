@@ -1,0 +1,23 @@
+{
+  "name": "phaser3-getting-started",
+  "version": "1.0.0",
+  "description": "Phaser 3 Getting Started Tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasIron/phaser3-getting-started.git"
+  },
+  "author": "Lucas Iron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasIron/phaser3-getting-started/issues"
+  },
+  "homepage": "https://github.com/LucasIron/phaser3-getting-started#readme",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  }
+}
